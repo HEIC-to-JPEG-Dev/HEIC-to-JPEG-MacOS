@@ -16,6 +16,7 @@ Converts HEIC and HEIF files without fuss. Just drop them for instant, automatic
 - Privacy options to delete the original HEIC/HEIF file (if conversion is successful)
     - Trash, Permanently, or via Department of Defence DoD 5220.22-M (E)
 - Customisable Output Folder
+- Native M1 codebase (Swift/SwiftUI)
 
 ## How to use
 - Simply drag your HEIC or HEIF files for instant conversion
