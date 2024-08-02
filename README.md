@@ -24,7 +24,7 @@ Converts HEIC and HEIF files without fuss. Just drop them for instant, automatic
 ## From the MacOS App Store
 [![AppStore Badge](https://github.com/user-attachments/assets/fb45448b-f45d-4833-b523-97010862aea0)](https://apps.apple.com/us/app/heic-to-jpeg/id6547848613)
 
-For the free version, also on the app store, click here
+For the free version (**HEIC Converter Express**), also on the app store, click [here](https://apps.apple.com/us/app/heic-to-jpeg/id6590631822)
 
 
 ## Screenshots
