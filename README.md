@@ -3,6 +3,8 @@ Convert HEIC &amp; HEIF files to JPG, JPEG, and PNG.
 
 Converts HEIC and HEIF files without fuss. Just drop them for instant, automatic conversion. Designed to make life easy with preset options and output locations
 
+<img width="812" alt="Screenshot 2024-07-29 at 11 49 06 AM" src="https://github.com/user-attachments/assets/0def3b46-b854-4498-8dfa-cfcb2c0cb4fe">
+
 ## Features
 - No adverts, no subscriptions, free updates for life
 - Unlimited conversions, locally convert thousands of files or more
